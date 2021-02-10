@@ -8,5 +8,5 @@ in go (useful low-level parts like fast STUN/TURN binary protocol implementation
 * Contributor to multiple opensource projects including go itself ([helped](https://github.com/golang/go/issues/25009) with nasty http2 client [bug](https://golang.org/issue/32441))
 * Author of [st-l10n](https://github.com/st-l10n), localization automation toolset for hardcore space station simulator video game.
 
-I'm working at [mail.ru](https://corp.mail.ru/en/) on video on demand platform 
+I'm working at [mail.ru](https://corp.mail.ru/en/) on cloud storage service 
 as Engineering Manager.
