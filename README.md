@@ -8,3 +8,5 @@ starting from 2014.
 * Actively working on [ogen](https://github.com/ogen-go/ogen), OpenAPI v3 code generator for Go
 
 I'm working at [VK](https://vk.company/en/) as head of development of internal PaaS.
+
+For HR: Currently **not available** for hire, Sorry
