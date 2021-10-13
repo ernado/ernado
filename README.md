@@ -9,4 +9,4 @@ starting from 2014.
 
 I'm working at [VK](https://vk.company/en/) as head of development of internal PaaS.
 
-For HR: Currently **not available** for hire, sorry.
+For HR: Currently **not available** for hire, consulting only, sorry.
