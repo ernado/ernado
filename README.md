@@ -14,7 +14,7 @@ You can call me Alex if you want.
 ## go faster
 
 <p align="center">
-<a href="https://go-faster.org"><img src="https://raw.githubusercontent.com/go-faster/.github/main/profile/logo.svg" width="256" height="105" alt="go faster logo"></a>
+<a href="https://go-faster.org"><img src="https://raw.githubusercontent.com/go-faster/.github/main/profile/logo_borderless.svg" width="256" height="105" alt="go faster logo"></a>
 </p>
 
 Member of [go faster](https://github.com/go-faster) and *causing performance*:
@@ -32,4 +32,4 @@ Member of [go faster](https://github.com/go-faster) and *causing performance*:
 [clickhouse]: https://clickhouse.com/ "ClickHouse, open-source, high performance columnar OLAP"
 
 
-<sub>For HR: Currently **not available** for hire, consulting only.</sub><
+<sub>For HR: Currently **not available** for hire, consulting only.</sub>
