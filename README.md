@@ -1,11 +1,11 @@
-Hey, I'm Aleksandr (ernado) Razumov, writing software mostly in go 
+Hey, I'm Aleksandr (ernado) Razumov, writing software mostly in Go 
 starting from 2014.
 
 <a href="https://go-faster.org"><img src="https://raw.githubusercontent.com/go-faster/.github/main/profile/logo_borderless.svg" width="256" height="105" alt="go faster logo"></a>
 
 Member of [go faster](https://github.com/go-faster) and *causing performance*:
 
-| project                | description                                      |
+| Project                | Description                                      |
 |:-----------------------|--------------------------------------------------|
 | [go-faster/ch][ch]     | High performance [ClickHouse][clickhouse] client |    
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
