@@ -24,9 +24,3 @@ Member of [go faster](https://github.com/go-faster) and *causing performance*:
 * Maintainer of [golangci-lint](https://github.com/golangci/golangci-lint), popular linter runner for go.
 * Author of [gortc](http://github.com/gortc/), WebRTC implementation in go and contributor to [pion](https://github.com/pion), its successor.
 * Also, contributor to multiple opensource projects [including](https://golang.org/issue/32441) [go itself](https://github.com/golang/go/issues/25009).
-
-I'm working at [VK](https://vk.company/en/) as head of development of internal PaaS.
-
-You can call me Alex if you want.
-
-<sub>For HR: Currently **not available** for hire, consulting only.</sub>
