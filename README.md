@@ -25,4 +25,4 @@ Member of [go faster](https://github.com/go-faster) and *causing performance*:
 * Author of [gortc](http://github.com/gortc/), WebRTC implementation in go and contributor to [pion](https://github.com/pion), its successor.
 * Also, contributor to multiple opensource projects [including](https://golang.org/issue/32441) [go itself](https://github.com/golang/go/issues/25009).
 
-Telegram: [@catent](https://t.me/catent).
+Telegram: [@catent](https://t.me/catent). Not looking for a job, consulting only.
