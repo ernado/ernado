@@ -1,11 +1,8 @@
+<img align="right" src="https://raw.githubusercontent.com/go-faster/.github/main/profile/logo_borderless.svg" height="80" alt="go faster logo">
+
 Hey, I'm Aleksandr (ernado) Razumov, writing software mostly in Go 
 starting from 2014.
-
-<p align="center">
-    <a href="https://go-faster.org">
-        <img src="https://raw.githubusercontent.com/go-faster/.github/main/profile/logo_borderless.svg" width="256" height="105" alt="go faster logo">
-    </a>
-</p>
+        
 
 Member of [go faster](https://github.com/go-faster) task force and *causing performance*:
 
