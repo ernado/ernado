@@ -1,9 +1,13 @@
 Hey, I'm Aleksandr (ernado) Razumov, writing software mostly in Go 
 starting from 2014.
 
-<a href="https://go-faster.org"><img src="https://raw.githubusercontent.com/go-faster/.github/main/profile/logo_borderless.svg" width="256" height="105" alt="go faster logo"></a>
+<p align="center">
+    <a href="https://go-faster.org">
+        <img src="https://raw.githubusercontent.com/go-faster/.github/main/profile/logo_borderless.svg" width="256" height="105" alt="go faster logo">
+    </a>
+</p>
 
-Member of [go faster](https://github.com/go-faster) and *causing performance*:
+Member of [go faster](https://github.com/go-faster) task force and *causing performance*:
 
 | Project                | Description                                      |
 |:-----------------------|--------------------------------------------------|
@@ -24,5 +28,7 @@ Member of [go faster](https://github.com/go-faster) and *causing performance*:
 * Maintainer of [golangci-lint](https://github.com/golangci/golangci-lint), popular linter runner for go.
 * Author of [gortc](http://github.com/gortc/), WebRTC implementation in go and contributor to [pion](https://github.com/pion), its successor.
 * Also, contributor to multiple opensource projects [including](https://golang.org/issue/32441) [go itself](https://github.com/golang/go/issues/25009).
+
+<img alt="metrics" src="github-metrics.svg">
 
 Telegram: [@catent](https://t.me/catent). Not looking for a job, consulting only.
