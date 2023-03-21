@@ -7,9 +7,9 @@ Member of [go faster](https://github.com/go-faster) task force and *causing perf
 
 | Project                | Description                                      |
 |:-----------------------|--------------------------------------------------|
+| [go-riscv][go-riscv]   | Bringing `riscv64` to Go and Kubernetes          |
 | [ogen][ogen]           | Advanced OpenAPI v3 code generator               |    
 | [gotd][gotd]           | MTProto Telegram client in pure Go               |
-| [go-riscv][go-riscv]   | Bringing `riscv64` to Go and Kubernetes          |
 | [ClickHouse/ch-go][ch] | High performance [ClickHouse][clickhouse] client |    
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
 | [go-faster/tail][tail] | High-throughput file tailing with inotify        |    
