@@ -29,4 +29,4 @@ Member of [go faster](https://github.com/go-faster) task force and *causing perf
 
 <img alt="metrics" src="github-metrics.svg">
 
-Telegram: [@catent](https://t.me/catent). Not looking for a job nor consulting.
+tg: [@catent](https://t.me/catent)
