@@ -12,7 +12,6 @@ Member of [go faster](https://github.com/go-faster) task force and *causing perf
 | [gotd][gotd]           | MTProto Telegram client in pure Go               |
 | [ClickHouse/ch-go][ch] | High performance [ClickHouse][clickhouse] client |    
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
-| [go-faster/tail][tail] | High-throughput file tailing with inotify        |    
 
 [jx]: https://github.com/go-faster/jx "go-faster/jx"
 [ch]: https://github.com/ClickHouse/ch-go "ClickHouse/ch-go"
