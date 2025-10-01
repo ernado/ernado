@@ -28,4 +28,4 @@ Member of [go faster](https://github.com/go-faster) task force and *causing perf
 
 <img alt="metrics" src="github-metrics.svg">
 
-tg: [@catent](https://t.me/catent)
+tg: [@razumovme](https://t.me/razumovme)
