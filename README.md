@@ -12,6 +12,7 @@ Member of [go faster](https://github.com/go-faster) task force and *causing perf
 | [gotd][gotd]           | MTProto Telegram client in pure Go               |
 | [ClickHouse/ch-go][ch] | High performance [ClickHouse][clickhouse] client |    
 | [go-faster/jx][jx]     | Zero allocation json codec and iterator          |    
+| [oteldb][oteldb]       | OpenTelemetry observability signal storage       |
 
 [jx]: https://github.com/go-faster/jx "go-faster/jx"
 [ch]: https://github.com/ClickHouse/ch-go "ClickHouse/ch-go"
@@ -19,6 +20,7 @@ Member of [go faster](https://github.com/go-faster) task force and *causing perf
 [ogen]: https://github.com/ogen-go/ogen "ogen-go/ogen"
 [gotd]: https://github.com/gotd "gotd"
 [go-riscv]: https://github.com/go-riscv "go-riscv"
+[oteldb]: https://github.com/oteldb/oteldb "oteldb/oteldb"
 
 [clickhouse]: https://clickhouse.com/ "ClickHouse, open-source, high performance columnar OLAP"
 
