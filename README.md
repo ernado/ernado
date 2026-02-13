@@ -24,7 +24,7 @@ Member of [go faster](https://github.com/go-faster) task force and *causing perf
 
 [clickhouse]: https://clickhouse.com/ "ClickHouse, open-source, high performance columnar OLAP"
 
-* Maintainer of [golangci-lint](https://github.com/golangci/golangci-lint), popular linter runner for go.
+* Ex-Maintainer of [golangci-lint](https://github.com/golangci/golangci-lint), popular linter runner for go.
 * Author of [gortc](http://github.com/gortc/), WebRTC implementation in go and contributor to [pion](https://github.com/pion), its successor.
 * Also, contributor to multiple opensource projects [including](https://golang.org/issue/32441) [go itself](https://github.com/golang/go/issues/25009).
 
